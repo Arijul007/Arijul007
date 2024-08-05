@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arijul007&label=Profile%20views&color=0e75b6&style=flat" alt="arijul007" /> </p>
 
-<p align="left"> <a href="https://twitter.com/arijul008" target="blank"><img src="https://img.shields.io/twitter/follow/arijul008?logo=twitter&style=for-the-badge" alt="arijul008" /></a> </p>
+<p align="left"> <a href="https://github.com/arijul007" target="blank"><img src="https://github.com/Arijul007" alt="arijul007" /></a> </p>
 
 - 🔭 I’m currently working on [EpochEdge](https://arijul007.github.io/EpochEdge/)
 
