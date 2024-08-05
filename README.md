@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://arijul007.github.io/my_portfolio/](https://arijul007.github.io/my_portfolio/)
 
-- 📫 How to reach me **arijul008@gmai.com**
+- 📫 How to reach me **arijul008@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
